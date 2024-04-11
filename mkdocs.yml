@@ -1,3 +1,9 @@
-site_name: My Docs
+site_name: ranetkad
+site_url: https://wiki.ranetkad.ru/
+site_description: 
+site_author: ranetkad
+
+site_name: ranetkad
 theme:
     name: material
+    language: ru
