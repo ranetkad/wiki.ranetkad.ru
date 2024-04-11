@@ -2,8 +2,12 @@ site_name: ranetkad
 site_url: https://wiki.ranetkad.ru/
 site_description: 
 site_author: ranetkad
+repo_url: https://github.com/ranetkad/wiki.ranetkad.ru
 
 site_name: ranetkad
 theme:
     name: material
     language: ru
+    icon:
+        repo: fontawesome/brands/github-alt
+
