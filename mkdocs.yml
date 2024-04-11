@@ -17,3 +17,13 @@ theme:
         - navigation.tracking
         - navigation.tabs
         - navigation.tabs.sticky
+        - navigation.footer
+        - announce.dismiss
+    font:
+        code: "Fira Code"
+        text: "Exo 2"
+plugins:
+    - offline
+    - optimize
+    - search
+
