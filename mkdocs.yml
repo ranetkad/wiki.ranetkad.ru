@@ -10,4 +10,10 @@ theme:
     language: ru
     icon:
         repo: fontawesome/brands/github-alt
-
+    features:
+        - navigation.instant
+        - navigation.instant.prefetch
+        - navigation.instant.progress
+        - navigation.tracking
+        - navigation.tabs
+        - navigation.tabs.sticky
