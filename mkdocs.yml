@@ -22,6 +22,25 @@ theme:
     font:
         code: "Fira Code"
         text: "Exo 2"
+    palette:
+        - media: "(prefers-color-scheme)"
+          toggle:
+            icon: material/link
+            name: Switch to light mode
+        - media: "(prefers-color-scheme: light)"
+          scheme: default
+          primary: indigo
+          accent: indigo
+          toggle:
+            icon: material/toggle-switch
+            name: Switch to dark mode
+        - media: "(prefers-color-scheme: dark)"
+          scheme: slate
+          primary: black
+          accent: indigo
+          toggle:
+            icon: material/toggle-switch-off
+            name: Switch to system preference
 plugins:
     - offline
     - optimize
