@@ -43,6 +43,5 @@ theme:
             name: Switch to system preference
 plugins:
     - offline
-    - optimize
     - search
 
